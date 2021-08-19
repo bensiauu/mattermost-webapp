@@ -134,7 +134,7 @@ const ProductSwitcher = (): JSX.Element => {
                         onClick={handleClick}
                         size={'sm'}
                         compact={true}
-                        toggled={switcherOpen}
+                        active={switcherOpen}
                         inverted={true}
                         aria-label='Select to open product switch menu.'
                     />
