@@ -78,6 +78,7 @@ exports[`components/StatusDropdown should match snapshot in default state 1`] = 
       <SubMenuItem
         ariaLabel="do not disturb. disables desktop, email and push notifications"
         direction="right"
+        extraText="Disables all notifications"
         icon={
           <StatusDndIcon
             className="dnd--icon"
@@ -327,6 +328,7 @@ exports[`components/StatusDropdown should match snapshot with custom status and 
       <SubMenuItem
         ariaLabel="do not disturb. disables desktop, email and push notifications"
         direction="right"
+        extraText="Disables all notifications"
         icon={
           <StatusDndIcon
             className="dnd--icon"
@@ -525,6 +527,7 @@ exports[`components/StatusDropdown should match snapshot with custom status enab
       <SubMenuItem
         ariaLabel="do not disturb. disables desktop, email and push notifications"
         direction="right"
+        extraText="Disables all notifications"
         icon={
           <StatusDndIcon
             className="dnd--icon"
@@ -723,6 +726,7 @@ exports[`components/StatusDropdown should match snapshot with custom status expi
       <SubMenuItem
         ariaLabel="do not disturb. disables desktop, email and push notifications"
         direction="right"
+        extraText="Disables all notifications"
         icon={
           <StatusDndIcon
             className="dnd--icon"
@@ -922,6 +926,7 @@ exports[`components/StatusDropdown should match snapshot with custom status puls
       <SubMenuItem
         ariaLabel="do not disturb. disables desktop, email and push notifications"
         direction="right"
+        extraText="Disables all notifications"
         icon={
           <StatusDndIcon
             className="dnd--icon"
@@ -1103,6 +1108,7 @@ exports[`components/StatusDropdown should match snapshot with profile picture UR
       <SubMenuItem
         ariaLabel="do not disturb. disables desktop, email and push notifications"
         direction="right"
+        extraText="Disables all notifications"
         icon={
           <StatusDndIcon
             className="dnd--icon"
@@ -1280,6 +1286,7 @@ exports[`components/StatusDropdown should match snapshot with status dropdown op
       <SubMenuItem
         ariaLabel="do not disturb. disables desktop, email and push notifications"
         direction="right"
+        extraText="Disables all notifications"
         icon={
           <StatusDndIcon
             className="dnd--icon"
